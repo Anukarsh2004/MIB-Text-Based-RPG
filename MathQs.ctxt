@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MathQs
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HardMath\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=MathQs()
+comment3.params=
+comment3.target=void\ EasyMath()
+comment4.params=
+comment4.target=void\ HardMath()
+comment5.params=
+comment5.target=int\ lowrandom()
+comment6.params=
+comment6.target=int\ highrandom()
+comment7.params=x\ y
+comment7.target=int\ pythagorean(int,\ int)
+comment8.params=n\ d
+comment8.target=int\ division(int,\ int)
+comment9.params=
+comment9.target=void\ delay()
+numComments=10
